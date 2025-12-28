@@ -5603,7 +5603,7 @@
 1	Кто-то	_	X	_	_	_	_	_	_
 2	:	_	PUNCT	_	_	_	_	_	_
 3	Нæу	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	_
-4	худинаг	_	VERB	_	Tense=Fut|VerbForm=Part|Voice=Act	_	_	_	_
+4	худинаг	_	VERB	_	Tense=Fut|VerbForm=Part|Voice=Pass	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
 
 1	Мадина	_	NPROP	_	Case=Nom	_	_	_	_
