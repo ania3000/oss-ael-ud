@@ -6890,7 +6890,7 @@
 7	йер	_	ADV	_	PronType=Dem	_	_	_	_
 8	ацы	_	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
 9	мæй	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-10	фæцис	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+10	фæцис	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
 
 1	Хабалова	_	NPROP	_	Case=Nom	_	_	_	_
