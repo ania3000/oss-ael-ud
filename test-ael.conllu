@@ -5259,7 +5259,7 @@
 5	балхæдта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	кæнæ	_	CCONJ	_	_	_	_	_	_
-8	иу	_	NUM	_	NumType=Card	_	_	_	_
+8	иу	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 9	ын	_	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	хъама	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	радта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
