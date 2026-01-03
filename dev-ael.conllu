@@ -4,7 +4,7 @@
 4	Мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
 5	æрбасæуы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	кæдæм	_	PRON	_	Case=All|PronType=Int	_	_	_	_
+7	кæдæм	_	ADV	_	PronType=Int	_	_	_	_
 8	ма	_	PART	_	_	_	_	_	_
 9	!	_	PUNCT	_	_	_	_	_	_
 
@@ -3381,7 +3381,7 @@
 36	февнæлдтæ	_	NOUN	_	Case=Nom|Number=Plur|Prefix=Yes	_	_	_	_
 37	…	_	PUNCT	_	_	_	_	_	_
 
-1	Кæдæм	_	PRON	_	Case=All|PronType=Int	_	_	_	_
+1	Кæдæм	_	ADV	_	PronType=Int	_	_	_	_
 2	сæ	_	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	фæхаста	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 4	æппæт	_	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
@@ -6918,7 +6918,7 @@
 8	бамбæхстыстæм	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	хъомтæ	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-11	кæдæм	_	PRON	_	Case=All|PronType=Int	_	_	_	_
+11	кæдæм	_	ADV	_	PronType=Int	_	_	_	_
 12	тардтой	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	уым	_	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
@@ -7201,7 +7201,7 @@
 14	æмæ	_	CCONJ	_	_	_	_	_	_
 15	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	дард	_	ADV	_	_	_	_	_	_
-17	кæдæмдæр	_	PRON	_	Case=All|PronType=Ind	_	_	_	_
+17	кæдæмдæр	_	ADV	_	PronType=Ind	_	_	_	_
 18	ахаста	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
 
