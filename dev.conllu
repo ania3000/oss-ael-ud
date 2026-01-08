@@ -1829,7 +1829,7 @@
 8	,	_	PUNCT	_	_	_	_	_	_
 9	загътон	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	_	PUNCT	_	_	_	_	_	_
-11	кæд	_	ADV	_	PronType=Int	_	_	_	_
+11	кæд	_	SCONJ	_	_	_	_	_	_
 12	мæнæн	_	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 13	уайдзæф	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	кæны	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -2322,37 +2322,37 @@
 
 # sent_id = 136
 # text = Кæд ирон дæ, сахуыр кæ æппæты разæй мадæлон æвзаг сахуыр кæн, йæ тæккæ рахæцæн гъе уый у, мадæлон æвзаг сахуыр кæ, уый фæстæ та иннæтæ ахуыр кæ.
-1	Кæд	_	ADV	_	PronType=Int	_	_	_	_
+1	Кæд	_	SCONJ	_	_	_	_	_	_
 2	ирон	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	дæ	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+3	дæ	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
 5	сахуыр	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes	_	_	_	_
-6	кæ	_	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
+6	кæ	_	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
 7	æппæты	_	PRON	_	Case=Gen|Number=Sing|PronType=Tot	_	_	_	_
 8	разæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 9	мадæлон	_	ADJ	_	_	_	_	_	_
 10	æвзаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	сахуыр	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes	_	_	_	_
-12	кæн	_	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+12	кæн	_	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	_	_	_	_
 14	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 15	тæккæ	_	PART	_	_	_	_	_	_
 16	рахæцæн	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes|VerbForm=Inf2	_	_	_	_
 17	гъе	_	INTJ	_	_	_	_	_	_
 18	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-19	у	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+19	у	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	,	_	PUNCT	_	_	_	_	_	_
 21	мадæлон	_	ADJ	_	_	_	_	_	_
 22	æвзаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 23	сахуыр	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes	_	_	_	_
-24	кæ	_	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+24	кæ	_	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 25	,	_	PUNCT	_	_	_	_	_	_
 26	уый	_	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 27	фæстæ	_	ADP	_	_	_	_	_	_
 28	та	_	PART	_	_	_	_	_	_
 29	иннæтæ	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 30	ахуыр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-31	кæ	_	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+31	кæ	_	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 32	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 137
@@ -5163,7 +5163,7 @@
 # text = Мадина: Кæд дыууæ хъилыл конд уыдис, уæд æй дыууæ барæджы хастой?
 1	Мадина	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
 2	:	_	PUNCT	_	_	_	_	_	_
-3	Кæд	_	ADV	_	PronType=Int	_	_	_	_
+3	Кæд	_	SCONJ	_	_	_	_	_	_
 4	дыууæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 5	хъилыл	_	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 6	конд	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -6280,7 +6280,7 @@
 
 # sent_id = 378
 # text = Кæд уæ фæнды нæ программæйы архайын, уæд уæм æнхъæлмæ кæсæм Радиойы Хæдзары.
-1	Кæд	_	ADV	_	PronType=Int	_	_	_	_
+1	Кæд	_	SCONJ	_	_	_	_	_	_
 2	уæ	_	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 3	фæнды	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	нæ	_	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
@@ -6858,7 +6858,7 @@
 1	Зангиева	_	NPROP	_	Case=Nom	_	_	_	_
 2	Алла	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
 3	:	_	PUNCT	_	_	_	_	_	_
-4	Кæд	_	CCONJ	_	_	_	_	_	_
+4	Кæд	_	SCONJ	_	_	_	_	_	_
 5	ма	_	PART	_	_	_	_	_	_
 6	нæ	_	PART	_	Polarity=Neg	_	_	_	_
 7	гъе	_	INTJ	_	_	_	_	_	_
