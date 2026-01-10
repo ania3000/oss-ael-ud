@@ -2,6 +2,13 @@
 The present dataset is a collection of Iron Ossetic texts from the [Corpus of Oral Texts](https://www.ossetic-studies.org/en/texts/iron) with manual morphological annotation in UD.
 
 # Introduction
-The Corpus of Oral Texts is initially manually annotated for parts-of-speech and morphological features in custom schema. The annotation is manually revised and manually converted into the CoNLL-U Format using UD Annotation Guidelines v2 with the addition of language-specific guidelines.
+The Corpus of Oral Texts is manually annotated for parts-of-speech and morphological features in custom schema. The annotation is manually revised and manually converted into the CoNLL-U Format using UD v2 Annotation Guidelines with the addition of language-specific guidelines. Ossetic is an Iranic language from the Indo-European family spoken by up to 614.000 speakers mostly in North Causasus region.
+
+The present dataset contains 5454 sentences total. Training set contains 80% of sentences and validation and test sets contain 10% of sentences each.
+
+# References
+
+# Contact
+The dataset was prepared by Anna Shatskikh (anapriselec@gmail.com). All questions and comments are welcome.
 
 # Changelog
