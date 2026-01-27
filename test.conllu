@@ -594,7 +594,7 @@
 5	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	хъусæн	_	VERB	_	VerbForm=Inf2	_	_	_	_
 7	дæр	_	PART	_	_	_	_	_	_
-8	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+8	вæййы	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	тынг	_	ADV	_	_	_	_	_	SpaceAfter=No
 10	…	_	PUNCT	_	_	_	_	_	_
 
@@ -5653,7 +5653,7 @@
 14	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
 15	экран	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	куыд	_	ADV	_	PronType=Int	_	_	_	_
-17	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+17	вæййы	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 18	,	_	PUNCT	_	_	_	_	_	_
 19	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	SpaceAfter=No
 20	,	_	PUNCT	_	_	_	_	_	_
@@ -7195,7 +7195,7 @@
 23	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 24	сын	_	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 25	бар	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-26	вæййы	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+26	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 27	кæсын	_	VERB	_	VerbForm=Inf	_	_	_	_
 28	уже	_	ADV	_	_	_	_	_	_
 29	ног	_	ADJ	_	_	_	_	_	_
@@ -8180,7 +8180,7 @@
 3	Мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
 4	чындзæхсæвы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 5	хуыз	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	нæ	_	PRON	_	Case=Abl|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	нæ	_	PART	_	Polarity=Neg	_	_	_	_
 7	фæисынц	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
 9	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
