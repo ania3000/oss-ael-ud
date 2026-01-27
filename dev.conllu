@@ -7076,7 +7076,7 @@
 4	Сылгоймаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	карздæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 6	зæрдæ	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+7	вæййы	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 423
