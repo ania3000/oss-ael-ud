@@ -36609,7 +36609,7 @@
 13	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2283
-# text = Кæнæ ды, кæнæ 'ппын дæр не скæндзынæн, зæгъгæ.
+# text = Кæнæ ды, кæнæ ппын дæр не скæндзынæн, зæгъгæ.
 1	Кæнæ	_	CCONJ	_	_	_	_	_	_
 2	ды	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	_	_	_	_
